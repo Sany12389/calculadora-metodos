@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\bin\Debug\net8.0\calculadora-metodos.exe
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\bin\Debug\net8.0\calculadora-metodos.deps.json
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\bin\Debug\net8.0\calculadora-metodos.runtimeconfig.json
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\bin\Debug\net8.0\calculadora-metodos.dll
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\bin\Debug\net8.0\calculadora-metodos.pdb
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\calculadora-metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\calculadora-metodos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\calculadora-metodos.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\calculadora-metodos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\calculadora-metodos.sourcelink.json
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\calculadora-metodos.dll
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\refint\calculadora-metodos.dll
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\calculadora-metodos.pdb
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\calculadora-metodos.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Sandyla\calculadora-metodos\obj\Debug\net8.0\ref\calculadora-metodos.dll
