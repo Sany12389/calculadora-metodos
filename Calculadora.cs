@@ -1,3 +1,6 @@
+using System.Drawing;
+using Layout;
+
 namespace Calculadora
 {
     class Operadores
@@ -6,10 +9,10 @@ namespace Calculadora
         public static decimal ObterValor()
         {
         repetir:
-            Console.Write("Informar o valor: ");
+            Console.Write("Informar o valor: ", ConsoleColor.Green);
             if (!decimal.TryParse(Console.ReadLine(), out decimal valor))
             {
-                Console.WriteLine("Valor inválido!");
+                Formatacao.Cor("Valor inválido!", ConsoleColor.Red);
                 goto repetir;
             }
             else

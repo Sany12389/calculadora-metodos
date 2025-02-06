@@ -1,11 +1,11 @@
-namespace layout
+namespace Layout
 {
-    class formatacao
+    class Formatacao
     {
-        public static void DarkRed(string RealizarAdicao, ConsoleColor DarkRed)
+        public static void Cor(string texto, ConsoleColor cor)
         {
-            Console.ForegroundColor = ConsoleColor.DarkRed
-        Console.Write(RealizarAdicao);
+            Console.ForegroundColor = cor;
+            Console.WriteLine(texto);
             Console.ResetColor();
         }
     }

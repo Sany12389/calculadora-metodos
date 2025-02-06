@@ -3,6 +3,7 @@ using Calculadora;
 using System.Drawing;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel;
+using Layout;
 
 // Cumprimento.ImprimirMensagem();
 // Cumprimento.ImprimirBomdia();
@@ -54,16 +55,16 @@ using System.ComponentModel;
 //     Console.WriteLine("Valor inválido");
 //     goto repetir_valo6
 // }
-public static void DarkRed(string RealizarAdicao, ConsoleColor DarkRed)
-{
-    Console.ForegroundColor = ConsoleColor.DarkRed
-    Console.Write(RealizarAdicao);
-    Console.ResetColor();
-}
+// public static void DarkRed(string RealizarAdicao, ConsoleColor DarkRed)
+// {
+//     Console.ForegroundColor = ConsoleColor.DarkRed
+//     Console.Write(RealizarAdicao);
+//     Console.ResetColor();
+// }
+
 
 // Operadores.RealizarAdicao(valor1,valor2);
 // Operadores.RealizarSubtração(valor3,valor4);
-
 Operadores.RealizarAdicao(); // Vai pedir que digite duas vezes e vai somar
 
 // Toda vez que precisar que o usuário te informe algum valor (decimal) você só irá chamar ométodo Operadores.ObterValor();
